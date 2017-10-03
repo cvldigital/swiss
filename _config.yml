@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Process, Not Product
-description: Research and observations on civic technology as a social movement rather than a campaign with a specific set of outcomes
+description: Civic tech as an unending process and an end in itself
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project
@@ -27,7 +27,7 @@ social_username: jekyllrb
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: gray
+theme_color: black
 
 # Build settings
 markdown: kramdown

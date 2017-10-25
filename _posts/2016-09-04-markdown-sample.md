@@ -5,9 +5,9 @@ date: 2016-09-04 00:00:00
 ---
 
 
-### Can lasting impact really be made with a single app or dataset?
+### Can lasting impact really be achieved with a single civic app built and let into the wild?
 
-It may surprise you that I'm going to say this, but **no, no single civic app** is going to restore trust in government or make all local leaders coalesce around open data and co-creation with residents.
+**No single civic app** is going to restore trust in government or make all local leaders coalesce around open data and co-creation with residents. Even if you build the most successful civic app possible,
 
 &nbsp;
 
@@ -39,9 +39,8 @@ This is a normal paragraph following a Heading. Bacon ipsum dolor sit amet t-bon
 
 ### Heading 3
 
-```
-This is a code block following a Heading.
-```
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This is a code block following a Heading.
+</code></pre></div></div>
 
 #### Heading 4
 
@@ -65,7 +64,7 @@ This is a code block following a Heading.
 
 ---
 
-There's a horizontal rule above and below this.
+There’s a horizontal rule above and below this.
 
 ---
 
@@ -73,7 +72,7 @@ Here is an unordered list:
 
 * Salt-n-Pepa
 * Bel Biv DeVoe
-* Kid 'N Play
+* Kid ‘N Play
 
 And an ordered list:
 
@@ -113,23 +112,22 @@ If a table is too wide, it should condense down and/or scroll horizontally.
 
 | Artist | Album | Year | Label | Awards | Songs |
 | --- | --- | --- | --- | --- | --- |
-| Michael Jackson | Thriller | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin' Somethin', Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
-| Prince | Purple Rain | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let's Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I'm a Star, Purple Rain |
-| Beastie Boys | License to Ill | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
+| Michael Jackson | Thriller | 1982 | Epic Records | Grammy Award for Album of the Year, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Selling Album, Grammy Award for Best Engineered Album, Non-Classical | Wanna Be Startin’ Somethin’, Baby Be Mine, The Girl Is Mine, Thriller, Beat It, Billie Jean, Human Nature, P.Y.T. (Pretty Young Thing), The Lady in My Life |
+| Prince | Purple Rain | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let’s Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I’m a Star, Purple Rain |
+| Beastie Boys | License to Ill | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She’s Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
 
 ---
 
-Code snippets like `var foo = "bar";` can be shown inline.
+Code snippets like `var foo = "bar";`{: .highlighter-rouge} can be shown inline.
 
-Also, `this should vertically align` ~~`with this`~~ ~~and this~~.
+Also, `this should vertically align`{: .highlighter-rouge} ~~`with this`{: .highlighter-rouge}~~ ~~and this~~.
 
-Code can also be shown in a block element. ` var foo = "bar";`
+Code can also be shown in a block element. ` var foo = “bar”;`
 
-Code can also use syntax highlighting. `Javascript var foo = "bar";`
+Code can also use syntax highlighting. `Javascript var foo = "bar";`{: .highlighter-rouge}
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+</code></pre></div></div>
 
 ```Javascript
 var foo = "The same thing is true for code with syntax highlighting. A single line of code should horizontally scroll if it is really long.";
@@ -139,8 +137,8 @@ Inline code inside table cells should still be distinguishable.
 
 | Language | Code |
 | --- | --- |
-| Javascript | `var foo = "bar";` |
-| Ruby | `foo = "bar"` |
+| Javascript | `var foo = "bar";`{: .highlighter-rouge} |
+| Ruby | `foo = "bar"`{: .highlighter-rouge} |
 
 ---
 
@@ -152,9 +150,7 @@ Large images should always scale down and fit in the content container.
 
 ![](http://placekitten.com/g/1200/800/)
 
-```
-This is the final element on the page and there should be no margin below this.
-```<!-- %enddocs -->
+` This is the final element on the page and there should be no margin below this.`{: .highlighter-rouge}<!-- %enddocs -->
 
 ## License
 

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Process, Not Product
-description: Civic technology as an continuum with intrinsic value beyond outcome-based metrics
+description: Civic technology organizations beyond outcome-based metrics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project

@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Process, Not Product
-description: Volunteer civic tech communities as an intrinsic pubilc good for cities in the 21st century – beyond vanity metrics and policy wins
+title: Process not Product
+description: Technology of, by, and for community healing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: jekyll # the GitHub repo name for your project

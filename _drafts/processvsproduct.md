@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Process vs. Product: Civic innovation beyond open data and civic apps
+title: Process vs Product - Civic innovation beyond open data and civic apps
 date: 2018-01-04 00:00:00
 ---
 *On the need for sustainable, citizen-driven innovation networks to ensure today’s innovation in government doesn’t deprecate or become tomorrow’s status quo*

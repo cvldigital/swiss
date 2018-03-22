@@ -1,13 +1,18 @@
 ---
 layout: post
-title: Markdown sample
+title: 'It''s about people, not projects'
 date: 2016-09-04 00:00:00
 ---
 
+### Civic and social innovation as an intrinsic good
+
+&nbsp;
 
 ### Can lasting impact really be achieved with a single civic app built and let into the wild?
 
-**No single civic app** is going to restore trust in government or make all local leaders coalesce around open data and co-creation with residents. Even if you build the most successful civic app possible,
+**No single civic app** is going to restore trust in government or make all local leaders coalesce around open data and co-creation with residents.
+
+&nbsp;
 
 &nbsp;
 
@@ -135,10 +140,7 @@ var foo = "The same thing is true for code with syntax highlighting. A single li
 
 Inline code inside table cells should still be distinguishable.
 
-| Language | Code |
-| --- | --- |
-| Javascript | `var foo = "bar";`{: .highlighter-rouge} |
-| Ruby | `foo = "bar"`{: .highlighter-rouge} |
+<table><thead><tr><th>Language</th><th>Code</th></tr></thead><tbody><tr><td>Javascript</td><td><code class="highlighter-rouge">var foo = "bar";</code></td></tr><tr><td>Ruby</td><td><code class="highlighter-rouge">foo = "bar"</code></td></tr></tbody></table>
 
 ---
 
@@ -150,7 +152,7 @@ Large images should always scale down and fit in the content container.
 
 ![](http://placekitten.com/g/1200/800/)
 
-` This is the final element on the page and there should be no margin below this.`{: .highlighter-rouge}<!-- %enddocs -->
+` This is the final element on the page and there should be no margin below this.`{: .highlighter-rouge}<!--base32-40jpavk4chqp6wt0-base32-->
 
 ## License
 
